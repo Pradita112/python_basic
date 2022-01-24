@@ -53,7 +53,6 @@ print(f"alamat : {alamat}")
 apel = 2000
 mangga = 3000
 total = apel + mangga
-
 print ("-------daftar belanjaan -----")
 print(f"total belanjaan = {total}")
 
