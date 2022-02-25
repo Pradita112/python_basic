@@ -6,7 +6,7 @@ for i in games:
 
 print("break")
 for a in games:
-    if a == "csgo":
+    if a == "valorant":
         break
 print("continue")
 for b in games:

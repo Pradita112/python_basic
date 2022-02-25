@@ -15,7 +15,7 @@ while tambahan == "iya":
     print("5. bumbu_dapur")
     belanja=input ("ingin membeli yang mana : ")
     if belanja == tomat:
-        rincian.append(5000)
+        rincian.append()
         keranjang.append(belanja)
     elif belanja == kol:
         rincian.append(7000)
